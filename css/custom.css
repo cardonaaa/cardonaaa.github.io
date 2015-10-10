@@ -1,3 +1,15 @@
 .nav a {
 	text-color: #000;
 }
+
+.details {
+	text-align:center;
+	color: #A79594;
+	font-style: italic;
+	padding:20px;
+}
+
+.descrip {
+	text-align:center;
+	padding-bottom:20px;
+}
